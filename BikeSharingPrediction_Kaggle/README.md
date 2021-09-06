@@ -10,6 +10,6 @@ Motivation: I had two main goals when I started this code.
 
 
 Results: It turns out in this case R is about a 10% more accurate than Python when predicting the bike sharing demand (having performed the same steps). Difference is thought to be in how decission tree regressor algorithms are built in each language. Not only that, but also it was discovered that using Decission Trees to bin the time and temperature data, while seeming effective on R (as seen on the tutorial), turned out to be counterproductive on Python, the best score being achieved when this process was not performed at all.
-
+ 
 
 Random Forest hyperparameter fine tuning was not performed since that was not the point of the project, more focused on Feature Engineering.
