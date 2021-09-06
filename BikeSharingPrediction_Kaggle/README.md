@@ -3,7 +3,6 @@ Code for Kaggle's competition: Bike Sharing Demand. Solution based on an Analyti
 Tutorial Link: https://www.analyticsvidhya.com/blog/2015/06/solution-kaggle-competition-bike-sharing-demand/
 
 Motivation: I had two main goals when I started this code.
-
                      1. Practice with timestamped data.
                      
                      2. The tutorial is done in R studio, while I use Python. Ever since I chose this language, I always wondered about it's 
