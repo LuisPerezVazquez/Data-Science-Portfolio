@@ -6,8 +6,7 @@ Motivation: I had two main goals when I started this code.
 
                      1. Practice with timestamped data.
                      
-                     2. The tutorial is done in R studio, while I use Python. Ever since I chose this language, I always wondered about it's 
-differences with R, especially how big would be the difference in the final accuracy obtained between both languages if the same steps were performed.
+                     2. The tutorial is done in R studio, while I use Python. Ever since I chose this language, I always wondered about it's differences with R, especially how big would be the difference in the final accuracy obtained between both languages if the same steps were performed.
 Also as a bonus I thought it would be interesting too to learn the 'translations' from one language to another.
 
 
