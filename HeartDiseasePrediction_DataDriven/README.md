@@ -1,1 +1,3 @@
-hola luis
+My first Data Science competition. Python code that achieved the 39th place (2% percentile) in the Driven Data's starters competition Warm Up: Machine Learning with a Heart on August 2019. 
+
+In this project I put into practice the basics of model building and used Pipelines to optimize the process. Also standard techniques to treat the different types of data were used, such as scaling float variables, log transformation to prevent skewness or onehot encoding to treat categorical data. Besides this, the differentiator element that got my model so high in the table was the use of interaction terms between variables. Especially, the 'ageheart' variable that put explictly to the model the relationship between age and maximum heart rate. For example, an old person with very low maximum heart rate seemed to be a very good indicative to predict a high chance of heart disease.
